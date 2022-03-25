@@ -1,0 +1,4 @@
+{
+    "js/ts.implicitProjectConfig.strictNullChecks": true,
+    "javascript.suggestionActions.enabled": false
+}
